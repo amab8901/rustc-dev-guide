@@ -3,7 +3,7 @@
 <!-- toc -->
 
 A lot of effort has been put into making `rustc` have great error messages.
-This chapter is about how to emit compile errors and lints from the compiler.
+This chapter is about how to emit compile errors and hints from the compiler.
 
 ## Diagnostic structure
 
